@@ -1,1 +1,3 @@
 KESAN BELAJAR GIT HASHMICRO
+
+Kesan saya belajat git, cukup membingungkan karena saya belum pernah belajar tentang git dan github, namun sangat membantu dalam mengembangkan kemampuan saya.
