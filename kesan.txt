@@ -1,3 +1,7 @@
+
+KESAN BELAJAR GIT HASHMICRO:
+Konsep diajarkan dengan terorganisir dan tidak terburu-buru sehingga dapat lebih mudah dipahami. Pembelajaran juga dilengkapi dengan contoh praktek yang ditunjukan bagaimana cara kerjanya. Sangat menyenangkan karena pengajarannya sangat memotivasi.
+
 KESAN BELAJAR GIT HASHMICRO
 
 Dengan menggunakan Git semua orang yang terlibat dalam pengkodean proyek akan menyimpan database Git, sehingga sangat memudahkan dalam mengelola proyek baik online maupun offline. 
@@ -38,6 +42,7 @@ Belajar GIT dengan Bapak Wiku menyenangkan dan menarik. Karena dalam membahas se
 
 - Mudah dipahami
 - Mudah diikuti
+
 
 
 
